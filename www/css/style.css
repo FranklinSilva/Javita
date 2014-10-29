@@ -1,0 +1,27 @@
+.bar-dark{
+	background-color: #805E3B !important;
+}
+
+.bar-dark button{
+	background-color: #805E3B !important;
+}
+
+.titleEventCard{
+	font-size: 1px !important;
+}
+
+.item-divider{
+	background-color: rgba(163,127,80,0.8) !important;
+}
+
+.item-divider h1{
+	font-size: 1.2em !important;
+}
+
+.inline{
+	display: inline !important;
+}
+
+.float-right{
+	float: right !important;
+} 
