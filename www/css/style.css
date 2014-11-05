@@ -1,9 +1,22 @@
+body{
+	background-image: url(../img/background-01.png);
+}
+
+
+.logo{
+	width: 40%;
+}
+
 .bar-dark{
-	background-color: #805E3B !important;
+	background-color: #2f180b !important;
 }
 
 .bar-dark button{
-	background-color: #805E3B !important;
+	background-color: #2f180b !important;
+}
+
+.button-dark{
+		background-color: #2f180b !important;
 }
 
 .titleEventCard{
@@ -11,7 +24,7 @@
 }
 
 .item-divider{
-	background-color: rgba(163,127,80,0.8) !important;
+	background-color: rgba(47,24,11,0.5) !important;
 }
 
 .item-divider h1{
